@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/KhabarWala_v2/static/css/main.b914952d.chunk.css",
+    "main.js": "/KhabarWala_v2/static/js/main.f60e1e66.chunk.js",
+    "main.js.map": "/KhabarWala_v2/static/js/main.f60e1e66.chunk.js.map",
+    "runtime-main.js": "/KhabarWala_v2/static/js/runtime-main.471a2367.js",
+    "runtime-main.js.map": "/KhabarWala_v2/static/js/runtime-main.471a2367.js.map",
+    "static/css/2.3f6a4e7d.chunk.css": "/KhabarWala_v2/static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.f62c52db.chunk.js": "/KhabarWala_v2/static/js/2.f62c52db.chunk.js",
+    "static/js/2.f62c52db.chunk.js.map": "/KhabarWala_v2/static/js/2.f62c52db.chunk.js.map",
+    "index.html": "/KhabarWala_v2/index.html",
+    "static/css/2.3f6a4e7d.chunk.css.map": "/KhabarWala_v2/static/css/2.3f6a4e7d.chunk.css.map",
+    "static/css/main.b914952d.chunk.css.map": "/KhabarWala_v2/static/css/main.b914952d.chunk.css.map",
+    "static/js/2.f62c52db.chunk.js.LICENSE.txt": "/KhabarWala_v2/static/js/2.f62c52db.chunk.js.LICENSE.txt",
+    "static/media/newman.6aec7577.png": "/KhabarWala_v2/static/media/newman.6aec7577.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.471a2367.js",
+    "static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.f62c52db.chunk.js",
+    "static/css/main.b914952d.chunk.css",
+    "static/js/main.f60e1e66.chunk.js"
+  ]
+}
