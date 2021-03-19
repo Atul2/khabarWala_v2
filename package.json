@@ -1,6 +1,6 @@
 {
-  "name": "khabarWala_v2",
-  "homepage": "https://Atul2.github.io/khabarWala_v2",
+  "name": "news",
+  "homepage": "https://Atul2.github.io/news",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
